@@ -32,7 +32,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [x] 🔨 Hands-on: [My first Action workflow](hol/01-My-first-workflow.md)
 - [x] Advanced [workflow syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 - [x] :coffee: Break
-- [ ] GitHub Actions
+- [x] GitHub Actions
 - [ ] Types of Actions
 - [ ] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
 - [ ] Typescript and composite actions
@@ -41,13 +41,13 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] Job descriptions
 
 ### Day 2
-- [ ] Introduction
-- [ ] Actions for CI/CD
-- [ ] Permissions for GitHub Token
-- [ ] Environments and Secrets
-- [ ] Staged deployments with environments, approvals, and deployment gates
-- [ ] 🔨 Hands-on: [Staged deployments](hol/03-Staged-deployments.md)
-- [ ] :coffee: Break
+- [x] Introduction
+- [x] Actions for CI/CD
+- [x] Permissions for GitHub Token
+- [x] Environments and Secrets
+- [x] Staged deployments with environments, approvals, and deployment gates
+- [x] 🔨 Hands-on: [Staged deployments](hol/03-Staged-deployments.md)
+- [x] :coffee: Break
 - [ ] Action policies
 - [ ] Running your workflows
 - [ ] Sharing workflows
