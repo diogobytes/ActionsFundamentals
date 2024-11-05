@@ -53,7 +53,7 @@ jobs:
     if: github.event.inputs.environment == 'Production'
     runs-on: ubuntu-latest
     environment: Production
-    needs: ["Load-Test","Test"]
+    needs: [Load-Test,Test]
     steps:
       - name: Deploy to Production
         run: |
