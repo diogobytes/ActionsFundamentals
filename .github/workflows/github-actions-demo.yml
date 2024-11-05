@@ -15,7 +15,7 @@ on:
     inputs:
       enviornment:
         description: "Name of the enviornment"
-        type: enviornment
+        type: environment
         required: true
         
 jobs:
