@@ -14,7 +14,7 @@ on:
   workflow_dispatch:
     inputs:
       enviornment:
-        description: "Name of the enviornment"
+        description: "Name of the environment"
         type: environment
         required: true
         
@@ -55,7 +55,7 @@ jobs:
     environment:
       name: Production
       url: https://writeabout.net
-    if: github.event.inputs.environment == 'Production'
+    if: github.event.inputs.enviornment == 'Production'
     steps:
       - run: |
           echo "🚀 Step 1..."
