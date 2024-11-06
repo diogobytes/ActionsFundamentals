@@ -1,6 +1,6 @@
 name: Reusable workflow
 on: 
-  workflow_call:
+  workflow_call: # This means that this is a reusable workflow
     inputs: 
       who-to-greet:
         required: true
@@ -19,7 +19,7 @@ jobs:
        run: |
         echo "Hello ${{ inputs.who-to-greet }}"
      - name: Outputs time
-       id: time
+       id: time # we need this id in order to specify which step we want to output ( get the value from)
        run: |
          echo "time=$(date)" >> $GITHUB_OUTPUT
     outputs:
