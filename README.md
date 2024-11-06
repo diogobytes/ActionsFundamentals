@@ -33,12 +33,12 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [x] Advanced [workflow syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 - [x] :coffee: Break
 - [x] GitHub Actions
-- [ ] Types of Actions
-- [ ] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
-- [ ] Typescript and composite actions
-- [ ] Sharing and releasing actions
-- [ ] Using the GitHub API and Octokit
-- [ ] Job descriptions
+- [x] Types of Actions
+- [x] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
+- [x] Typescript and composite actions
+- [x] Sharing and releasing actions
+- [x] Using the GitHub API and Octokit
+- [x] Job descriptions
 
 ### Day 2
 - [x] Introduction
