@@ -15,7 +15,7 @@ jobs:
        with:
          who-to-greet: "Diogo"
      - name: "Current time step"
-       run: echo " Current time: ${{ steps.docker-step.outputs.time }}"
+       run: echo "${{steps.docker-step.outputs.time}}"
       
       
     
