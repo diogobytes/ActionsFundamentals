@@ -52,7 +52,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [x] Running your workflows
 - [x] Sharing workflows
 - [x] 🔨 Hands-on: [Reusable workflows](hol/04-Reusable-workflows.md)
-- [ ] Best practices and security
+- [x] Best practices and security
 
 
 ## ⚡ Prerequisites
